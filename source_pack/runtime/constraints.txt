@@ -1,0 +1,2 @@
+# Freeze this file per delivery version when the runtime dependency set is validated.
+# v1 currently ships with bounded versions in requirements/base.txt and requirements/serve.txt.

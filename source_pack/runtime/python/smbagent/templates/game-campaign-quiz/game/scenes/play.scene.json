@@ -1,0 +1,6 @@
+{
+  "name": "play",
+  "purpose": "Present quiz questions and collect answers",
+  "key_ui": ["question text", "answer buttons", "progress"],
+  "success_condition": "player answers all questions"
+}

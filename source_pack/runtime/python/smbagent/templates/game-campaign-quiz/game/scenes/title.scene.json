@@ -1,0 +1,6 @@
+{
+  "name": "title",
+  "purpose": "Introduce the campaign and start the quiz",
+  "key_ui": ["hero visual", "start button"],
+  "success_condition": "player starts the quiz"
+}

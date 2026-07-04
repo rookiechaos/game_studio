@@ -1,0 +1,9 @@
+{
+  "events": [
+    "page_view",
+    "game_start",
+    "question_answer",
+    "game_complete",
+    "reward_view"
+  ]
+}

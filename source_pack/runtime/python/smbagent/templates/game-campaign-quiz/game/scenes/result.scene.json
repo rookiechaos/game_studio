@@ -1,0 +1,6 @@
+{
+  "name": "result",
+  "purpose": "Show outcome and reward CTA",
+  "key_ui": ["score", "result copy", "coupon CTA"],
+  "success_condition": "player sees the result and optional reward"
+}
