@@ -355,8 +355,4 @@ pip install -e . && python -m smbagent.cli doctor
 
 CI（`.github/workflows/ci.yml`）は `main` / `master` への push / PR で言語チェック、Python doctor、UI typecheck を実行します。
 
-### ライセンス
 
-MIT — [LICENSE](LICENSE) を参照。
-
-詳細: [source_pack/docs/deployment_guide.md](source_pack/docs/deployment_guide.md)
